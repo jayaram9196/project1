@@ -1,3 +1,3 @@
 # demo project
 
-project details are saved in README.md file.
+project details are saved in README.md file. Repo!
